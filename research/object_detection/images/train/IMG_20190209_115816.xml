@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20190209_115816.jpg</filename>
+	<path>C:\flowerclassifier\models\research\object_detection\images\train\IMG_20190209_115816.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ginimala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>648</ymin>
+			<xmax>1751</xmax>
+			<ymax>1833</ymax>
+		</bndbox>
+	</object>
+</annotation>
